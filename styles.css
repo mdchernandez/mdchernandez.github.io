@@ -1,0 +1,40 @@
+/*
+    filename: styles.css
+    created by: Maria Hernandez
+    email: mdchernandez13@gmail.com
+    purpose: css style sheet that creates uniformity
+     throughout the entire webpage(s)
+*/
+
+body {
+  background-color: rgb(256,256,256);
+  font-family: serif;
+  text-align: left;
+  color: rgb(207,173,107);
+}
+
+a{
+  text-decoration:none;
+  color: rgb(207,173,107);
+}
+h1,h2,h3{
+  background-color: transparent;
+  font-variant: small-caps;
+  display: inline;
+}
+
+
+p{
+  background-color: transparent;
+  color: black;
+  /*text-indent: 1em;*/
+}
+
+img{
+  width: 30px;
+  height: 30px;
+}
+
+li{
+  color: black;
+}
